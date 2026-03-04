@@ -1,10 +1,13 @@
- Family Bakery Website 🍞
+ # Family Bakery Website 🍞
 
 This is my first website ever built using pure HTML and CSS.
 
 It is a static bakery landing page created to practice the fundamentals of web development including layout structure, positioning, styling, and working with images and fonts.
 
- 🚀 Project Overview
+<img width="1900" height="932" alt="image" src="https://github.com/user-attachments/assets/27365378-748a-44eb-9c2f-79711df24047" />
+
+
+## 🚀 Project Overview
 
 The website represents a bakery business called "Family Bakery" and includes:
 
@@ -16,7 +19,7 @@ The website represents a bakery business called "Family Bakery" and includes:
 - Contact section with embedded Google Map
 - Footer with contact details and opening hours
 
- 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -24,7 +27,7 @@ The website represents a bakery business called "Family Bakery" and includes:
 - Font Awesome Icons
 - Google Maps Embed
 
- 🎯 What I Practiced
+## 🎯 What I Practiced
 
 - Structuring a full webpage using semantic HTML
 - Styling using external CSS
@@ -34,13 +37,13 @@ The website represents a bakery business called "Family Bakery" and includes:
 - Embedding a Google Map using iframe
 - Organizing sections and containers properly
 
- 📌 Notes
+## 📌 Notes
 
 - This project is not responsive (desktop layout only).
 - Built as part of my early front-end learning journey.
 - Focused on understanding core HTML & CSS concepts before moving to advanced topics.
 
- 💡 Future Improvements
+## 💡 Future Improvements
 
 - Make the website fully responsive
 - Improve accessibility
